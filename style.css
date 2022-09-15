@@ -1,0 +1,52 @@
+main {
+    display:grid;
+    grid-template-columns:repeat(auto-fit, minmax(16em, 1fr));
+    text-align: center;
+    gap:2.7em;
+}
+
+article:first-child {
+    grid-column-start:1;
+    grid-column-end:-1;
+}
+
+h1 {
+    --text-gradient:linear-gradient(
+    to right, hsl(351, 84%, 45%), hsl(0, 0%, 0%));
+    background-image:var(--text-gradient);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+
+    font-size: 3em;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+article p a {
+    color: #D2122E;
+}
+
+article h2 {
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+section {
+    display:flex;
+    flex-direction: row;
+    /*De row scrollbaar maken*/
+    overflow-x:scroll;
+}
+
+section article h2 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+
