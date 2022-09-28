@@ -19,6 +19,7 @@ Surface Plane & Responsive
 
 **Toegankelijkheid:**
 
-
+1. Bril
+2. 
 
 
