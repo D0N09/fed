@@ -1,4 +1,4 @@
-<p width: 5em>**Auteur:**</p>
+**<p width: 5em>Auteur:</p>**
 
 Donny Emming
 
