@@ -1,10 +1,10 @@
-Auteur:
+**Auteur:**
 Donny Emming
 
-Je startniveau:
+**Je startniveau:**
 Blauw
 
-Je focus:
+**Mijn focus:**
 Surface Plane
 Responsive
 
