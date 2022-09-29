@@ -89,15 +89,23 @@ Ik moest ook gebruik gaan maken van :root zodat het kiezen van kleur voor een el
 Meer animaties moest ik toevoegen aan mijn website zoals: Hover/focus en animation. 
 Ook moest ik :nth-of-type() in mijn website verwerken zodat ik geen class hoeft te gebruiken.
 
+# Toegankelijkheid testen met onze eigen website
+**28 September**
+
+
+
 # Voortgang gesprek
 **29 September**
 
+Mijn Vragen voor de studentassistenten:
+1. Hoe kan ik 2 pagina's gescheiden houden?
+
+De studentassistent heeft mijn website bekeken en gekeken naar de class in mijn HTML, deze moest er uitgehaald worden
+want deze kan je makkelijk veranderen voor de :nth-of-type().
 
 
 
-**19 September**
 
-**26 September**
 
 
 
