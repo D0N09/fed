@@ -8,7 +8,7 @@ Blauw
 
 **Mijn focus:**
 
-Surface Plane & Responsive
+Responsive
 
 # Mijn gekozen website
 
@@ -45,7 +45,24 @@ Toen ik de website ging testen door alleen de tab knop te gebruiken kom je tegen
 # Hoorcollege
 **12 September**
 
+Tijdens de hoorcollege hebben 2 personen uitleg gegeven over de toegankelijkheid van een website/product.
+Dit vond ik heel leerzaam omdat ik methodes heb gezien die goed van pas komen voor mijn eigen werk.
+Één methode daarvan was dat je voor een website het beste eerst de HTML kan schrijven en daarna pas de CSS, dit zorgt ervoor 
+dat de website netter en overzichtelijker wordt.
 
+**Persoon 1**
+
+Door eerst te beginnen een goed HTML bestand op te stellen kan je daarna CSS toevoegen aan het bestand om het compleet te maken.
+Dit kan de toegankelijkheid van de website verbeteren.
+Tab knop:
+Door gebruik te maken van Headings (H1, H2 etc.) in je website maak je het makkelijker voor gebruikers die gebruik maken van de TAB knop om hoofdstukken over te slaan die zij niet zoeken of interesse naar hebben. 
+Screenreader:
+Door linkjes, buttons, images etc. een specifieke naam te geven is het voor een gebruiker die gebruik maakt van de screenreader beter om de website te begrijpen.
+
+**Persoon 2**
+
+Door iets specifiek te ontwerpen voor een gebruiker kan het zijn dat je eigenlijk iets ontwerp voor een groter doelgroep.
+Zorg dus dat je tijdens het bedenken van ideeën met meerdere mensen overlegt over hoe hij/zij dit kan gebruiken/toepassen.
 
 **19 September**
 
