@@ -22,7 +22,7 @@ Surface Plane & Responsive
 
 Samen met een klasgenoot zijn wij onze websites gaan controleren op hoe toegankelijk onze site is voor mensen met een beperking (doof, slecht ziend/blind, spierenziekte of mensen met een gedragsstoornis). Door gebruik te maken van verschillende technieken om zo de website te controleren heb ik gebruik gemaakt van een elektrostimulatie apparaat, een elastiek om de hand, ballon als afleiding, een bril voor beperking van het zicht, een screenreader en de TAB knop.
 
-**Elektrostimulatie apparaat**
+**1. Elektrostimulatie apparaat**
 
 Door gebruik te maken van een elektrostimulatie apparaat gaan je spieren vanzelf bewegingen maken die je niet onder controle hebt. Tijdens het testen van de app kom je tegen een aantal problemen aan zoals verkeerde knoppen indrukken en het niet stil kunnen houden van de telefoon.
 
