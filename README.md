@@ -64,6 +64,18 @@ Door linkjes, buttons, images etc. een specifieke naam te geven is het voor een 
 Door iets specifiek te ontwerpen voor een gebruiker kan het zijn dat je eigenlijk iets ontwerp voor een groter doelgroep.
 Zorg dus dat je tijdens het bedenken van ideeën met meerdere mensen overlegt over hoe hij/zij dit kan gebruiken/toepassen.
 
+# Voortgang gesprek
+**15 September**
+
+# Voortgang gesprek
+**22 September**
+
+# Voortgang gesprek
+**29 September**
+
+
+
+
 **19 September**
 
 **26 September**
