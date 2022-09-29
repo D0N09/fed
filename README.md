@@ -20,6 +20,7 @@ Surface Plane & Responsive
 # Toegankelijkheid testen
 **5 September**
 
+Samen met een klasgenoot zijn wij onze websites gaan controleren op hoe toegankelijk onze site is voor mensen met een beperking (doof, slecht ziend/blind, spierenziekte of mensen met een gedragsstoornis). Door gebruik te maken van verschillende technieken om zo de website te controleren heb ik gebruik gemaakt van een elektrostimulatie apparaat, een elastiek om de hand, ballon als afleiding, een bril voor beperking van het zicht, een screenreader en de TAB knop.
 
 
 **12 September**
