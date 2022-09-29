@@ -42,8 +42,10 @@ Er waren verschillende brillen die je kon gebruiken die ervoor zorgde dat je zic
 
 Toen ik de website ging testen door alleen de tab knop te gebruiken kom je tegen een aantal problemen aan zoals soms niet kunnen zien waar je navigeert of bepaalde acties niet kunnen uitvoeren. Voor de rest kon je best wel makkelijk door de website heen scrollen door alleen gebruik te maken van de tab knop omdat hij alles pakte wat ik wilde zien.
 
-
+# Hoorcollege
 **12 September**
+
+
 
 **19 September**
 
