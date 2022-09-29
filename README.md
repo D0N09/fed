@@ -67,8 +67,27 @@ Zorg dus dat je tijdens het bedenken van ideeën met meerdere mensen overlegt ov
 # Voortgang gesprek
 **15 September**
 
+Mijn Vragen voor de studentassistenten:
+1. Hoe werken de CSS selectors precies?
+2. Waar moet ik de bronnen vermelden?
+
+De eerste voortgang gesprek had ik met de studentassistenten. 
+De feedback die ik kreeg was dat ik de afbeeldingen moest downloaden en in een img mapje moest stoppen.
+Ik moest gaan kijken naar :nth-of-type() en :first-of-type.
+Ook moest ik op de juiste manier gebruik maken van een section en article.
+
 # Voortgang gesprek
 **22 September**
+
+Mijn Vragen voor de studentassistenten:
+1. Hoe werkt de README?
+2. Hoe moet ik een HTML class koppelen aan Javascript?
+
+De docent had mijn website bekeken en gaf mij feedback over dat ik gebruik moest maken van flexbox en grid.
+Ook moest ik kijken dat de foto's op elk device mooi zijn en op de juiste plek staan.
+Ik moest ook gebruik gaan maken van :root zodat het kiezen van kleur voor een element makkelijker is als ik het wil/moet aanpassen.
+Meer animaties moest ik toevoegen aan mijn website zoals: Hover/focus en animation. 
+Ook moest ik :nth-of-type() in mijn website verwerken zodat ik geen class hoeft te gebruiken.
 
 # Voortgang gesprek
 **29 September**
