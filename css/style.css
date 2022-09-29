@@ -1,16 +1,13 @@
 :root {
     /* ACHTERGROND */
     --eerste-kleur: white;
-    /* NAVBAR */
+    /* NAVBAR & TEXT-KLEUR*/
     --tweede-kleur: #181314;
-    /* BLOKKEN */
+    /* BLOKKEN & HOOFDSTUKKEN*/
     --derde-kleur: #D2122E;
-    /* TEXT-KLEUR */
-    --vierde-kleur: #181314;
     /* FONT-TEXT */
     --fonttext: Tahoma, sans-serif;
 }
-
 
 /* SCROLLBAR WEG HALEN */
 ::-webkit-scrollbar {
@@ -22,9 +19,9 @@
     --eerste-kleur: #181314;
     --tweede-kleur: #D2122E;
     --derde-kleur: #D2122E;
-    --vierde-kleur: #D2122E;
 }
 
+/* BODY */
 body {
     background-color: var(--eerste-kleur);
 }
@@ -57,136 +54,109 @@ header nav li a {
     text-decoration: none;
 }
 
-
-/* MAIN SOCIAL */
-.facebook {
-    background: #3B5998;
-    color: white;
-}
-
-.twitter {
-    background: #55ACEE;
-    color: white;
-}
-  
-.youtube {
-    background: #bb0000;
-    color: white;
-}
-
-.icon-bar {
-    position: fixed;
-    bottom: 12em;
-    right: 0;
-    padding-bottom: 2em;
-}
-
-.icon-bar a {
-    display: block;
-    text-align: center;
-    padding: 16px;
-    color: white;
+header nav li button {
+    background-color: var(--eerste-kleur);
+    color: var(--tweede-kleur);
 }
 
 
-/* MAIN SECTION */
-main section:nth-of-type(2) {
+/* MAIN SECTION 1*/
+Main section:nth-of-type(1) {
     display:grid;
     grid-template-columns:repeat(auto-fit, minmax(16em, 1fr));
     background-color: var(--derde-kleur);
-    padding-top: 1em;
-    padding-bottom: 1em;
 }
 
 
-/* MAIN SECTION ARTICLE */
-main section article.schuiven img {
+/* MAIN SECTION 1 ARTICLE 1 H1 */
+main section:nth-of-type(1) article:nth-of-type(1) h1{
+    color: var(--eerste-kleur);
+    font-family:var(--fonttext);
+    text-align: center;
+}
+
+
+/* MAIN SECTION 1 ARTICLE 1 P */
+main section:nth-of-type(1) article:nth-of-type(1) p{
+    color: var(--eerste-kleur);
+    font-family:var(--fonttext);
+    text-align: center;
+}
+
+
+/* MAIN SECTION 1 ARTICLE 2*/
+main.home section:nth-of-type(1) article:nth-of-type(2) {
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+}
+
+
+/* MAIN SECTION 1 ARTICLE 2 IMG */
+main section:nth-of-type(1) article:nth-of-type(2) img {
     width: auto;
     height: 10em;
-    padding-left: 0.4em;
+    padding-top: 1em;
 }
 
-main section article h1 {
-    color: var(--eerste-kleur);
-    font-family:var(--fonttext);
-    text-align: center;
-}
 
-main section article p {
-    color: var(--eerste-kleur);
-    font-family:var(--fonttext);
-    text-align: center;
-}
-
-.schuiven {
+/* MAIN ARTICLE 1 */ /* > = pakt de eerste article:nth-of-type(1) */
+main.home >article:nth-of-type(1) {
     display: flex;
     flex-direction: row;
     overflow-x: scroll;
 }
 
 
-/* MAIN ARTICLE 1 */
-main article:nth-of-type(1).scrollen {
-    display: flex;
-    flex-direction: row;
-    overflow-x: scroll;
-}
-
-main article:nth-of-type(1) {
+/* MAIN ARTICLE 1 H1 */
+main article:nth-of-type(1) h1{
     color: var(--derde-kleur);
-    font-family:var(--fonttext);
+    font-family: var(--fonttext);
 }
 
-main article:nth-of-type(1) p {
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-}
 
-main article.scrollen img {
+/* MAIN ARTICLE 1 IMG */
+main.home article:nth-of-type(1) img {
     width: auto;
     height: 10em;
     padding-top: 1em;
 }
 
-/* MAIN H2 & SECTION 3 */
+
+/* MAIN H2 */
 main h2 {
     background-color: var(--derde-kleur);
     color: var(--eerste-kleur);
     font-family: var(--fonttext);
 }
 
-main section:nth-of-type(3) h3 {
-    color: var(--vierde-kleur);
+
+/* MAIN SECTION:nth-of-type(2) */
+main section:nth-of-type(2) h3 {
+    color: var(--tweede-kleur);
     font-family: var(--fonttext);
 }
 
-main section:nth-of-type(3) p {
-    color: var(--vierde-kleur);
+main section:nth-of-type(2) p {
+    color: var(--tweede-kleur);
     font-family: var(--fonttext);
 }
 
-main section:nth-of-type(3) h3:hover {
+main section:nth-of-type(2) h3:hover {
     background-color: brown;
     color: #ab936b;
-    padding: 0.5em
 }
 
 /* MAIN ARTICLE 2 */
-main article:nth-of-type(2).kolom {
-    background-color: var(--derde-kleur);
-}
-
-#index-pagina main article:nth-of-type(2) p {
-    color: var(--eerste-kleur);
+main.home article:nth-of-type(2) p {
+    color: var(--tweede-kleur);
     column-count: 2;
-    padding: 0.5em;
 }
 
 /* MAIN ARTICLE 3 */
-#index-pagina main article:nth-of-type(3) {
+main.home article:nth-of-type(3) {
     display:grid;
     grid-template-columns:repeat(auto-fit, minmax(16em, 1fr));
-    justify-content:space-evenly;
     gap: 1em;
 }
 
@@ -195,101 +165,78 @@ main article:nth-of-type(3) iframe {
     aspect-ratio: 4/3;
 }
 
+
 /* FOOTER */
 footer {
-    display:grid;
-    grid-template-columns:repeat(auto-fit, minmax(16em, 1fr));
-    background-color: var(--derde-kleur);
+    display: flex;
     margin-top: 0.5em;
-}
-
-footer table {
-    text-align: left;
-}
-
-footer table th {
+    justify-content: space-evenly;
+    background-color: var(--derde-kleur);
     color: var(--eerste-kleur);
-    font-family: var(--fonttext);
-    padding: 1em;
 }
 
-footer table td {
+footer ul li {
+    list-style-type: none;
+    padding: 0.5em;
     font-family: var(--fonttext);
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
-    padding: 1em;
 }
 
-footer table td a {
+footer ul li a{
     color: var(--eerste-kleur);
     text-decoration: none;
 }
 
-footer a:hover {
-    border-bottom: 3px solid white;
-}
-
-
-/* ANIMATIE */
-@keyframes shirt-animatie {
-    0% {
-    transform: scale(2);
-    }
-
-    100% {
-    transform: scale(1);
-    }
-}
-
-main article:nth-of-type(1).scrollen img:hover {
-    animation-name: shirt-animatie;
-    animation-duration: 1s;
-}
-
-@keyframes draai-animatie {
-    0% {
-      transform:rotate(0);
-    }
-    100% {
-      transform:rotate(360deg);
-    }
-}
-
-main article:nth-of-type(2).kolom p:hover {
-    animation-name: draai-animatie;
-    animation-duration:1s;
+footer a:hover{
+    border-bottom: 2px solid white;
 }
 
 
 /* SHOP-PAGE */
-#shop-page main h1 {
-    background-color: var(--derde-kleur);
-    color: var(--eerste-kleur);
-    font-family: var(--fonttext);
-    text-align: center;
-}
-
-#shop-page section:nth-of-type(2).scrollen {
+main.shop-page section:first-of-type {
+    background-color: var(--eerste-kleur);
     display: flex;
     flex-direction: row;
     overflow-x: scroll;
-    gap:2em;
-    background-color: var(--eerste-kleur);
+    gap: 1em;
 }
 
-#shop-page section:nth-of-type(2) h2 {
+main.shop-page section:first-of-type article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main.shop-page section:first-of-type article h2{
     text-align: center;
+    border: 1px solid #ab936b;
+    padding: 0.2em;
 }
 
-#shop-page main article img {
+main.shop-page section:first-of-type article p{
+    color: var(--tweede-kleur);
+    font-family: var(--fonttext);
+}
+
+main.shop-page section:first-of-type article img{
     width: auto;
-    height: 15em;
+    height: 10em;
+    padding-top:0;
 }
 
-#shop-page section:nth-of-type(2) p {
-    color: var(--vierde-kleur); 
+main.shop-page section:first-of-type article button {
+    width: 100%;
+    height: 3em;
+    background-color: var(--derde-kleur);
+    border: 2px solid #ab936b;
+    font-family: var(--fonttext);
 }
 
+main.shop-page section:nth-of-type(2) {
+    display:grid;
+    grid-template-columns:repeat(auto-fit, minmax(16em, 1fr));
+}
 
-
-
+main.shop-page section:nth-of-type(2) img {
+    width: 100%;
+    height: 10em;
+}
