@@ -17,9 +17,6 @@ Surface Plane & Responsive
   <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/192732731-cd25266d-fc31-490a-9083-0861b0fbc4c4.PNG">
 </div>
 
-**Toegankelijkheid:**
-
-1. Bril
-2. 
+**5 September**
 
 
