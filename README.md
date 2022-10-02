@@ -189,6 +189,10 @@ rond de 1000 foutmeldingen.
 
 <img width="700" height="200" src="https://user-images.githubusercontent.com/112881062/193467895-08262425-4ab7-4976-8bad-82abb6708f50.PNG"> 
 
+# Wat heb ik toegevoegd om de website toegankelijker te maken?
+
+
+
 # Bronnen
 
 Images uit de Navbar:
