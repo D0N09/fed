@@ -225,7 +225,7 @@ want deze kan je makkelijk veranderen voor de :nth-of-type() element.
 Ik ben elke les een nieuwe verbeterde website gaan maken. Elke les kregen wij een nieuw onderdeel uitgelegd die ik ben gaan oefenen 
 en toepassen in mijn nieuwe website. 
 
-<img width="400" height="300" src="https://user-images.githubusercontent.com/112881062/193476667-747c7d06-7e81-4614-bc0c-d038558d85d7.PNG">
+<img width="600" height="300" src="https://user-images.githubusercontent.com/112881062/193476667-747c7d06-7e81-4614-bc0c-d038558d85d7.PNG">
 <img width="600" height="300" src="https://user-images.githubusercontent.com/112881062/193476814-513bf0da-c091-49ca-a95f-03bf0ceffb94.PNG">
 <img width="600" height="300" src="https://user-images.githubusercontent.com/112881062/193476917-a50843d1-2345-4b7d-9cbd-a90515a2d20d.PNG">
 
