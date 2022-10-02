@@ -52,22 +52,36 @@ een bril voor beperking van het zicht, een screenreader en de TAB knop.
 
 **1. Elektrostimulatie apparaat**
 
-Door gebruik te maken van een elektrostimulatie apparaat gaan je spieren vanzelf bewegingen maken die je niet onder controle hebt. Tijdens het testen van de app kom je tegen een aantal problemen aan zoals verkeerde knoppen indrukken en het niet stil kunnen houden van de telefoon.
+Door gebruik te maken van een elektrostimulatie apparaat gaan je spieren vanzelf bewegingen maken die je niet onder controle hebt. 
+Tijdens het testen van de app kom je tegen een aantal problemen aan zoals verkeerde knoppen indrukken en het niet stil kunnen houden van de telefoon.
+Tijdens het testen van de website op de laptop druk je heel snel allemaal knoppen in die je niet wil indrukken. 
+Dit is een groot probleem als de website dan steeds gaat inzoomen of naar boven/beneden gaat scrollen, de gebruiker kan dan heel moeilijk 
+de tekst lezen of video's bekijken op de website.
+Tijdens het testen van de website op de telefoon is het heel moeilijk om met je vingers op het scherm te tikken, je spieren
+trekken steeds samen en daardoor druk je sneller op linkjes en kan je niet door de website heen scrollen om te kijken.
+Als een persoon last heeft van spasme aan beide armen dan is het moeilijk om een telefoon vast te houden en te bedienen tegelijk.
 
 **2. Elastiek**
 
-Door een elastiek om je hand heen te doen kan je moeilijk je vingers gebruiken omdat je hand samentrekt. Ik liep tegen een aantal problemen aan zoals verkeerde knoppen indrukken maar ook moeite hebben met het gebruiken van een muis of de touchpad.
+Door een elastiek om je hand heen te doen kan je moeilijk je vingers gebruiken omdat je hand samentrekt. 
+Ik liep tegen een aantal problemen aan zoals verkeerde knoppen indrukken maar ook moeite hebben met het gebruiken van een muis of de touchpad.
+Dus het is handig dat de TAB knop goed werkt voor dit doelgroep, zodat ook zij makkelijk de website kunnen gebruiken.
 
 <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193454849-03ccb536-c5c8-4400-9ee4-64fc148355e4.jpg">
 
 **3. Ballon**
 
-Tijdens het testen van de website moest je de ballon hooghouden omdat je dan kon zien hoe het is om een website te bekijken door de ogen van iemand met een gedragsstoornis (ADHD of ADD). Dit was best moeilijk omdat je gefocust bent op iets anders en dan is het moeilijk om je aandacht bij de website te houden. Dit veroorzaakt dat je de informatie niet opslaat wat er staat of snel iets drukt wat je eigenlijk niet wilde.
+Tijdens het testen van de website moest je de ballon hooghouden omdat je dan kon zien hoe het is om een website te bekijken door de ogen van iemand met een gedragsstoornis (ADHD of ADD). Dit was best moeilijk omdat je gefocust bent op iets anders en dan is het moeilijk om je aandacht bij de website te houden. 
+Dit veroorzaakt dat je de informatie niet opslaat wat er staat of snel iets drukt wat je eigenlijk niet wilde.
+Het is dan handig dat je voor deze doelgroep een manier verzint waarbij zij kunnen zien waar zij zijn gebleven, zodat zij weer makkelijk
+door kunnen gaan met teksten lezen/video's kijken op de website.
 
 **4. Bril**
 
 Er waren verschillende brillen die je kon gebruiken die ervoor zorgde dat je zicht werd aangepast. 
 Dit zorgde ervoor dat je bepaalde delen van de website niet kon zien of er moeite mee had.
+Je moest dichtbij met je hoofd om scherpe afbeeldingen te zien en met je ogen knijpen om tekts te kunnen lezen, dit is natuurlijk
+niet heel toegankelijk voor mensen met een beperking in het zicht.
 
 **5. Tab Knop**
 
