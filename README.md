@@ -191,7 +191,16 @@ rond de 1000 foutmeldingen.
 
 # Wat heb ik toegevoegd om de website toegankelijker te maken?
 
+Ik heb een aantal elementen toegevoegd om de gebruiker van de website op zijn of haar gemakt te stellen door
+de website toegankelijker te maken. Wat heb ik toegevoed?
+- Hovers
+- Animations
 
+**Waarom heb ik hiervoor gekozen?**
+
+Hovers zodat je kan zien waar je bent gebleven of waar je op dit moment bent.
+Animations zoals afbeeldingen vergroten zorgt ervoor dat gebruikers die moeite hebben met kijken afbeeldingen van dichtbij kunnen zien.
+Dark/light mode is handig voor mensen die moeite hebben met kleuren of graag een dark of light thema willen hebben.
 
 # Bronnen
 
