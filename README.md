@@ -42,7 +42,7 @@ Er waren verschillende brillen die je kon gebruiken die ervoor zorgde dat je zic
 
 Toen ik de website ging testen door alleen de tab knop te gebruiken kom je tegen een aantal problemen aan zoals soms niet kunnen zien waar je navigeert of bepaalde acties niet kunnen uitvoeren. Voor de rest kon je best wel makkelijk door de website heen scrollen door alleen gebruik te maken van de tab knop omdat hij alles pakte wat ik wilde zien.
 
-<img width="500" height="300" src="https://user-images.githubusercontent.com/112881062/193454692-4d95d632-ecac-4128-b086-afdbcb7fb52f.jpg">
+<img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193454692-4d95d632-ecac-4128-b086-afdbcb7fb52f.jpg">
 
 # Hoorcollege
 **12 September**
