@@ -184,7 +184,7 @@ Images uit de Navbar:
 <p align="left">(Afbeelding 2) https://www.ajax.nl/</p>
 <p align="left">(Afbeelding 3) https://as.ro/fotbal/liga-campionilor/mohammed-kudus-gol-senzational-in-liverpool-ajax-noul-star-al-lancierilor-a-redus-anfield-la-tacere-222156.html</p>
 
-Kleding:
+Kleding & Ballen:
 <p align="left">https://ajax.nl</p>
 
 Kampioen afbeeldingen:
