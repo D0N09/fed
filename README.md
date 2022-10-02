@@ -35,13 +35,13 @@ om te zorgen dat de toegankelijkheid makkelijker word voor mensen met een beperk
 
 **Voortgangsgesprek 29sep**
 
+**De opbouw van mijn website**
+
 **Valideren van website**
 
 **Wat heb ik toegevoegd om de website toegankelijker te maken?**
 
 **Waarom heb ik hiervoor gekozen?**
-
-**De opbouw van mijn website**
 
 **Bronnen**
 
@@ -220,6 +220,13 @@ Mijn Vragen voor de studentassistenten:
 De studentassistent heeft mijn website bekeken en gekeken naar de class in mijn HTML, deze moest er uitgehaald worden
 want deze kan je makkelijk veranderen voor de :nth-of-type() element.
 
+# De opbouw van mijn website
+
+Ik ben elke les een nieuwe verbeterde website gaan maken. Elke les kregen wij een nieuw onderdeel uitgelegd die ik ben gaan oefenen 
+en toepassen in mijn nieuwe website. 
+
+<img width="400" height="300" src="https://user-images.githubusercontent.com/112881062/193476667-747c7d06-7e81-4614-bc0c-d038558d85d7.PNG">
+
 # valideren van website
 
 Toen mijn website zo goed als af was heb ik de website door een validator gehaald. 
@@ -255,13 +262,6 @@ Dark/light mode is handig voor mensen die moeite hebben met kleuren of graag een
 <img width="400" height="300" src="https://user-images.githubusercontent.com/112881062/193469657-297175ae-d57d-46ab-af4b-e3fbd3c353b5.PNG">
 <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193469621-0b2a7feb-b28b-4969-8a82-5f97f4d9f0af.PNG">  
 </div>
-
-# De opbouw van mijn website
-
-Ik ben elke les een nieuwe verbeterde website gaan maken. Elke les kregen wij een nieuw onderdeel uitgelegd die ik ben gaan oefenen 
-en toepassen in mijn nieuwe website. 
-
-<img width="400" height="300" src="https://user-images.githubusercontent.com/112881062/193476667-747c7d06-7e81-4614-bc0c-d038558d85d7.PNG">
 
 # Bronnen
 
