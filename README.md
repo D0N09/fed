@@ -99,8 +99,18 @@ Ook moest ik :nth-of-type() in mijn website verwerken zodat ik geen class hoeft 
 # Toegankelijkheid testen met onze eigen website
 **28 September**
 
+Vandaag hebben wij onze eigen website gestest op hoe toegankelijk hij is. Jessy heeft mijn website getest en liep tegen een paar dingen aan zoals
+Tabben door mijn website ging moeizaam, niet alle informatie op mijn website werd voorgelezen, sommige items hadden geen naam,
+de focus state moest aangepast worden en de contrast van de darkmode moet beter worden.
+Doordat ik deze punten heb opgeschreven kon ik er aan werken zodat dit verbeterd word op mijn website.
+
 **1. Elastiek**
 
+Tijdens het testen van mijn website met een elastiek om de hand kwam Jessy tegen een aantal problemen aan.
+De site sluit af tijdens het scrollen, naar beneden scrollen gaat moeilijk met de touchpad, als je op telefoon
+gaat scrollen zoomt het scherm in en uit en scrollen met 1 hand is best moeilijk.
+
+<img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193455719-cfc5e1f9-35ab-4628-a124-469acb0470c7.jpg">
 
 **2. Ballon**
 
