@@ -30,6 +30,8 @@ Door gebruik te maken van een elektrostimulatie apparaat gaan je spieren vanzelf
 
 Door een elastiek om je hand heen te doen kan je moeilijk je vingers gebruiken omdat je hand samentrekt. Ik liep tegen een aantal problemen aan zoals verkeerde knoppen indrukken maar ook moeite hebben met het gebruiken van een muis of de touchpad.
 
+<img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193454849-03ccb536-c5c8-4400-9ee4-64fc148355e4.jpg">
+
 **3. Ballon**
 
 Tijdens het testen van de website moest je de ballon hooghouden omdat je dan kon zien hoe het is om een website te bekijken door de ogen van iemand met een gedragsstoornis (ADHD of ADD). Dit was best moeilijk omdat je gefocust bent op iets anders en dan is het moeilijk om je aandacht bij de website te houden. Dit veroorzaakt dat je de informatie niet opslaat wat er staat of snel iets drukt wat je eigenlijk niet wilde.
