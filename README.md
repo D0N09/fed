@@ -107,8 +107,10 @@ Doordat ik deze punten heb opgeschreven kon ik er aan werken zodat dit verbeterd
 **1. Elastiek**
 
 Tijdens het testen van mijn website met een elastiek om de hand kwam Jessy tegen een aantal problemen aan.
-De site sluit af tijdens het scrollen, naar beneden scrollen gaat moeilijk met de touchpad, als je op telefoon
-gaat scrollen zoomt het scherm in en uit en scrollen met 1 hand is best moeilijk.
+- De site sluit af tijdens het scrollen.
+- naar beneden scrollen gaat moeilijk met de touchpad.
+- als je op telefoon gaat scrollen zoomt het scherm in en uit.
+- De website bedienen met 1 hand op de telefoon is best moeilijk.
 
 <div align="left">
 <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193455719-cfc5e1f9-35ab-4628-a124-469acb0470c7.jpg">
@@ -116,6 +118,7 @@ gaat scrollen zoomt het scherm in en uit en scrollen met 1 hand is best moeilijk
 <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193455785-690d861a-c58f-4e1c-a32b-e053b5a9b690.jpg">
 <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193455877-35b35d76-7efb-4c7d-bd84-817a4e59e29e.jpg">  
 </div>
+
 
 **2. Ballon**
 
@@ -131,6 +134,7 @@ De problemen waren die wij tegen kwamen zijn:
 <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193456361-fb0bbcbe-7758-4710-9e85-17e794e5ab47.jpg">
 <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193456405-44d7df09-98b2-4400-9c44-024c08741221.jpg">
 </div>
+
 
 **3. Bril**
 
