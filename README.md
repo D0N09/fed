@@ -270,6 +270,6 @@ Afbeeldingen datums ajax kampioen:
 
 Video's:
 
-ESPN & NOS
+Youtube kanalen ESPN & NOS
 
 
