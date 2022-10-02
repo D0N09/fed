@@ -21,6 +21,15 @@ om te zorgen dat de toegankelijkheid makkelijker word voor mensen met een beperk
   <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/192732731-cd25266d-fc31-490a-9083-0861b0fbc4c4.PNG">
 </div>
 
+# Overzicht hoofdstukken:
+
+**Toegankelijkheid testen 1.0**
+**Hoorcollege**
+**Voortgangsgesprek 15sep**
+**Voortgangsgesprek 22sep**
+**Toegankelijkheid testen 2.0**
+**Voortgangsgesprek 29sep**
+
 # Toegankelijkheid testen
 **5 September**
 
