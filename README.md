@@ -163,8 +163,8 @@ of ermee beter kunnen omgaan omdat dan de kleuren gescheiden worden.
 <div align="left">
 <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193457417-3c683d36-ae0e-443b-a785-344206f8c99f.jpg">
 <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193457433-0c0cc3cf-a236-471c-9a6d-6087660e9b3a.jpg">
-<img width="400" height="300" src="https://user-images.githubusercontent.com/112881062/193457459-fc04ce0e-94e3-442f-a9a6-712c1be91025.jpg">
-<img width="400" height="300" src="https://user-images.githubusercontent.com/112881062/193457475-c8e0b7ee-0847-432f-b1d6-b962341540cb.jpg">  
+<img width="350" height="300" src="https://user-images.githubusercontent.com/112881062/193457459-fc04ce0e-94e3-442f-a9a6-712c1be91025.jpg">
+<img width="350" height="300" src="https://user-images.githubusercontent.com/112881062/193457475-c8e0b7ee-0847-432f-b1d6-b962341540cb.jpg">  
 </div>
 
 # Voortgang gesprek
