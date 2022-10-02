@@ -147,6 +147,7 @@ Hierdoor moet je heel dichtbij zitten om afbeeldingen, video's en tekst te kunne
 
 Tijdens het testen met de prefer-color-scheme (kleurenblind) werden de kleuren aangepast op wat sommige mensen zien
 of ermee beter kunnen omgaan omdat dan de kleuren gescheiden worden.
+- Uit de test kwam dat sommige teksten onleesbaar werden omdat de kleuren werden aangepast.
 
 <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193456673-e3e4a9ab-a396-4843-acd4-f4994321d253.jpg">
 
