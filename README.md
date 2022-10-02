@@ -180,10 +180,12 @@ want deze kan je makkelijk veranderen voor de :nth-of-type() element.
 
 Images uit de Navbar:
 
-<p align="left">(Afbeelding 1) https://www.vi.nl/nieuws/knokkend-ajax-pas-laat-ten-onder-tegen-liverpool</p>
-<p align="left">(Afbeelding 2) Ajax.nl</p>
-<p align="left">(Afbeelding 3) https://as.ro/fotbal/liga-campionilor/mohammed-kudus-gol-senzational-in-liverpool-ajax-noul-star-al-lancierilor-a-redus-anfield-la-tacere-222156.html</p>
+<p align="left">(Afbeelding 1) https://www.vi.nl/nieuws/knokkend-ajax-pas-laat-ten-onder-tegen-liverpool
+(Afbeelding 2) Ajax.nl
+(Afbeelding 3) https://as.ro/fotbal/liga-campionilor/mohammed-kudus-gol-senzational-in-liverpool-ajax-noul-star-al-lancierilor-a-redus-anfield-la-tacere-222156.html</p>
 
+Kleding:
+<p align="left">Ajax.nl</p>
 
 
 
