@@ -96,6 +96,16 @@ Ook moest ik :nth-of-type() in mijn website verwerken zodat ik geen class hoeft 
 # Toegankelijkheid testen met onze eigen website
 **28 September**
 
+**1. Elastiek**
+
+
+**2. Ballon**
+
+
+**3. Bril**
+
+
+**4. Tab Knop**
 
 
 # Voortgang gesprek
@@ -105,7 +115,7 @@ Mijn Vragen voor de studentassistenten:
 1. Hoe kan ik 2 pagina's gescheiden houden?
 
 De studentassistent heeft mijn website bekeken en gekeken naar de class in mijn HTML, deze moest er uitgehaald worden
-want deze kan je makkelijk veranderen voor de :nth-of-type().
+want deze kan je makkelijk veranderen voor de :nth-of-type() element.
 
 
 
