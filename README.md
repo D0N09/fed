@@ -187,7 +187,7 @@ Ik kwam tegen een hoop errors en warnings tegen. Deze heb ik proberen op te loss
 Uit nieuwschierigheid ben ik ook gaan kijken of er errors/warnings waren bij de Ajax site zelf, maar die gaf zelfs
 rond de 1000 foutmeldingen.
 
-<img width="400" height="300" src="https://user-images.githubusercontent.com/112881062/193467895-08262425-4ab7-4976-8bad-82abb6708f50.PNG"> 
+<img width="500" height="200" src="https://user-images.githubusercontent.com/112881062/193467895-08262425-4ab7-4976-8bad-82abb6708f50.PNG"> 
 
 # Wat heb ik toegevoegd om de website toegankelijker te maken?
 
