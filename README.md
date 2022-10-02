@@ -119,7 +119,6 @@ Tijdens het testen van mijn website met een elastiek om de hand kwam Jessy tegen
 <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193455877-35b35d76-7efb-4c7d-bd84-817a4e59e29e.jpg">  
 </div>
 
-
 **2. Ballon**
 
 Tijdens het testen met de ballon kwamen wij al snel tegen problemen aan die mensen hebben met een concentratieprobleem.
@@ -135,7 +134,6 @@ De problemen waren die wij tegen kwamen zijn:
 <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193456405-44d7df09-98b2-4400-9c44-024c08741221.jpg">
 </div>
 
-
 **3. Bril**
 
 Tijdens het testen met de Blur/glare bril is het heel moeilijk om te tekst te lezen op de site.
@@ -147,6 +145,10 @@ Hierdoor moet je heel dichtbij zitten om afbeeldingen, video's en tekst te kunne
 
 **5. Kleurenblind**
 
+Tijdens het testen met de prefer-color-scheme (kleurenblind) werden de kleuren aangepast op wat sommige mensen zien
+of ermee beter kunnen omgaan omdat dan de kleuren gescheiden worden.
+
+<img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193456673-e3e4a9ab-a396-4843-acd4-f4994321d253.jpg">
 
 # Voortgang gesprek
 **29 September**
