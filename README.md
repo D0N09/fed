@@ -180,16 +180,12 @@ want deze kan je makkelijk veranderen voor de :nth-of-type() element.
 
 Toen mijn website zo goed als af was heb ik de website door een validator gehaald. 
 Ik kwam tegen een hoop errors en warnings tegen. Deze heb ik proberen op te lossen zodat de website er nog beter uit ziet.
+<img width="700" height="200" src="https://user-images.githubusercontent.com/112881062/193467857-5f286641-1bbe-4710-8a5b-3e0cc9cba151.PNG">
+<img width="700" height="200" src="https://user-images.githubusercontent.com/112881062/193467863-5d5b14bd-2ca0-4797-b1f5-ee422095e43a.PNG"> 
 
-<div align="left">
-<img width="600" height="200" src="https://user-images.githubusercontent.com/112881062/193467857-5f286641-1bbe-4710-8a5b-3e0cc9cba151.PNG">
-<img width="600" height="200" src="https://user-images.githubusercontent.com/112881062/193467863-5d5b14bd-2ca0-4797-b1f5-ee422095e43a.PNG"> 
-</div>
-
-Uit nieuwschierigheid ben ik ook gaan kijken of er errors/warnings waren bij de Ajax site zelf.
-
-
-<img width="600" height="200" src="https://user-images.githubusercontent.com/112881062/193467895-08262425-4ab7-4976-8bad-82abb6708f50.PNG"> 
+Uit nieuwschierigheid ben ik ook gaan kijken of er errors/warnings waren bij de Ajax site zelf, maar die gaf zelfs
+rond de 1000 foutmeldingen.
+<img width="700" height="200" src="https://user-images.githubusercontent.com/112881062/193467895-08262425-4ab7-4976-8bad-82abb6708f50.PNG"> 
 
 # Bronnen
 
