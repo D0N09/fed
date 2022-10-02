@@ -114,6 +114,7 @@ gaat scrollen zoomt het scherm in en uit en scrollen met 1 hand is best moeilijk
 <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193455719-cfc5e1f9-35ab-4628-a124-469acb0470c7.jpg">
 <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193455764-9c51a385-0855-46ac-bacb-c6374c222ad1.jpg">
 <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193455785-690d861a-c58f-4e1c-a32b-e053b5a9b690.jpg">
+<img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193455877-35b35d76-7efb-4c7d-bd84-817a4e59e29e.jpg">  
 </div>
 
 **2. Ballon**
