@@ -131,7 +131,7 @@ De problemen waren die wij tegen kwamen zijn:
 <div align="left">
 <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193456336-5a4de5d9-4039-48cd-8eda-6d5d4e44a637.jpg">
 <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193456361-fb0bbcbe-7758-4710-9e85-17e794e5ab47.jpg">
-<img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193456405-44d7df09-98b2-4400-9c44-024c08741221.jpg">
+<img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193456734-56ade759-1fa1-47e5-9b38-1be66daa6948.jpg">
 </div>
 
 **3. Bril**
