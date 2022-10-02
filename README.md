@@ -176,6 +176,21 @@ Mijn Vragen voor de studentassistenten:
 De studentassistent heeft mijn website bekeken en gekeken naar de class in mijn HTML, deze moest er uitgehaald worden
 want deze kan je makkelijk veranderen voor de :nth-of-type() element.
 
+# valideren van website
+
+Toen mijn website zo goed als af was heb ik de website door een validator gehaald. 
+Ik kwam tegen een hoop errors en warnings tegen. Deze heb ik proberen op te lossen zodat de website er nog beter uit ziet.
+
+<div align="left">
+<img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193467857-5f286641-1bbe-4710-8a5b-3e0cc9cba151.PNG">
+<img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193467863-5d5b14bd-2ca0-4797-b1f5-ee422095e43a.PNG"> 
+</div>
+
+Uit nieuwschierigheid ben ik ook gaan kijken of er errors/warnings waren bij de Ajax site zelf.
+
+
+<img width="400" height="300" src="https://user-images.githubusercontent.com/112881062/193467895-08262425-4ab7-4976-8bad-82abb6708f50.PNG"> 
+
 # Bronnen
 
 Images uit de Navbar:
@@ -187,7 +202,7 @@ Images uit de Navbar:
 Kleding & voetballen:
 <p align="left">https://ajax.nl</p>
 
-Kampioen afbeeldingen:
+Afbeeldingen datums ajax kampioen:
 <p align="left">https://www.ajax.nl/</p>
 <p align="left">https://Knvb.nl</p>
 <p align="left">https://Eredivisie.nl</p>
