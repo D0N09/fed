@@ -181,16 +181,16 @@ want deze kan je makkelijk veranderen voor de :nth-of-type() element.
 Images uit de Navbar:
 
 <p align="left">(Afbeelding 1) https://www.vi.nl/nieuws/knokkend-ajax-pas-laat-ten-onder-tegen-liverpool</p>
-<p align="left">(Afbeelding 2) Ajax.nl</p>
+<p align="left">(Afbeelding 2) https://www.ajax.nl/</p>
 <p align="left">(Afbeelding 3) https://as.ro/fotbal/liga-campionilor/mohammed-kudus-gol-senzational-in-liverpool-ajax-noul-star-al-lancierilor-a-redus-anfield-la-tacere-222156.html</p>
 
 Kleding:
 <p align="left">Ajax.nl</p>
 
 Kampioen afbeeldingen:
-<p align="left">Ajax.nl</p>
-<p align="left">Knvb.nl</p>
-<p align="left">Eredivisie.nl</p>
+<p align="left">https://www.ajax.nl/</p>
+<p align="left">https://Knvb.nl</p>
+<p align="left">https://Eredivisie.nl</p>
 
 
 
