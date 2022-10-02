@@ -178,12 +178,11 @@ want deze kan je makkelijk veranderen voor de :nth-of-type() element.
 
 # Bronnen
 
-<div align="left">
 Images uit de Navbar:
+
 (Afbeelding 1) https://www.vi.nl/nieuws/knokkend-ajax-pas-laat-ten-onder-tegen-liverpool
 (Afbeelding 2) Ajax.nl
 (Afbeelding 3) https://as.ro/fotbal/liga-campionilor/mohammed-kudus-gol-senzational-in-liverpool-ajax-noul-star-al-lancierilor-a-redus-anfield-la-tacere-222156.html
-</div>
 
 
 
