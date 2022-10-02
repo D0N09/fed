@@ -141,9 +141,16 @@ Hierdoor moet je heel dichtbij zitten om afbeeldingen, video's en tekst te kunne
 
 **4. Tab Knop**
 
+Tijdens het testen van mijn website met de tab knop kwam Jessy tegen het probleem aan dat niet alles bestuurd
+kon worden met de tab knop. Scrollen door mijn pagina ging dus heel moeilijk als je bepaalde acties wilde uitvoeren.
 
+**5. Reader/verteller**
 
-**5. Kleurenblind**
+Door te werken met de Reader/verteller kan je de website doornemen zonder ernaar te kijken, maar niet alles werd gelezen
+op mijn website doordat ik niet alles een naam/tekst heb gegeven. Dit maakt het moeilijk voor iemand die blind is en
+het van de reader moet hebben, dus dit moest ik aanpassen/verbeteren.
+
+**6. Kleurenblind**
 
 Tijdens het testen met de prefer-color-scheme (kleurenblind) werden de kleuren aangepast op wat sommige mensen zien
 of ermee beter kunnen omgaan omdat dan de kleuren gescheiden worden.
@@ -159,6 +166,8 @@ Mijn Vragen voor de studentassistenten:
 
 De studentassistent heeft mijn website bekeken en gekeken naar de class in mijn HTML, deze moest er uitgehaald worden
 want deze kan je makkelijk veranderen voor de :nth-of-type() element.
+
+# Bronnen
 
 
 
