@@ -204,9 +204,12 @@ Dark/light mode is handig voor mensen die moeite hebben met kleuren of graag een
 
 <div align="left">
 <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193469607-f8101dd2-000a-4e3e-ab50-fb21c8b10f4e.PNG">
-<img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193469621-0b2a7feb-b28b-4969-8a82-5f97f4d9f0af.PNG">
+<img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193469621-0b2a7feb-b28b-4969-8a82-5f97f4d9f0af.PNG">  
+</div>
+
+<div align="left">
 <img width="400" height="300" src="https://user-images.githubusercontent.com/112881062/193469636-a756fa74-c7bb-4fce-b5cf-078d04eeb339.PNG">
-<img width="400" height="300" src="https://user-images.githubusercontent.com/112881062/193469657-297175ae-d57d-46ab-af4b-e3fbd3c353b5.PNG">  
+<img width="400" height="300" src="https://user-images.githubusercontent.com/112881062/193469657-297175ae-d57d-46ab-af4b-e3fbd3c353b5.PNG">
 </div>
 
 # Bronnen
