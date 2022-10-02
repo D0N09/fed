@@ -35,6 +35,12 @@ om te zorgen dat de toegankelijkheid makkelijker word voor mensen met een beperk
 
 **Voortgangsgesprek 29sep**
 
+**Wat heb ik toegevoegd om de website toegankelijker te maken?**
+
+**Waarom heb ik hiervoor gekozen?**
+
+**Bronnen**
+
 
 # Toegankelijkheid testen
 **5 September**
