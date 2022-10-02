@@ -45,7 +45,10 @@ om te zorgen dat de toegankelijkheid makkelijker word voor mensen met een beperk
 # Toegankelijkheid testen
 **5 September**
 
-Samen met een klasgenoot zijn wij onze websites gaan controleren op hoe toegankelijk onze site is voor mensen met een beperking (doof, slecht ziend/blind, spierenziekte of mensen met een gedragsstoornis). Door gebruik te maken van verschillende technieken om zo de website te controleren heb ik gebruik gemaakt van een elektrostimulatie apparaat, een elastiek om de hand, ballon als afleiding, een bril voor beperking van het zicht, een screenreader en de TAB knop.
+Samen met een klasgenoot zijn wij onze websites gaan controleren op hoe toegankelijk onze site is voor mensen met een beperking 
+(doof, slecht ziend/blind, spierenziekte of mensen met een gedragsstoornis). Door gebruik te maken van verschillende technieken om zo de 
+website te controleren heb ik gebruik gemaakt van een elektrostimulatie apparaat, een elastiek om de hand, ballon als afleiding, 
+een bril voor beperking van het zicht, een screenreader en de TAB knop.
 
 **1. Elektrostimulatie apparaat**
 
@@ -63,7 +66,8 @@ Tijdens het testen van de website moest je de ballon hooghouden omdat je dan kon
 
 **4. Bril**
 
-Er waren verschillende brillen die je kon gebruiken die ervoor zorgde dat je zicht werd aangepast. Dit zorgde ervoor dat je bepaalde delen van de website niet kon zien of er moeite mee had.
+Er waren verschillende brillen die je kon gebruiken die ervoor zorgde dat je zicht werd aangepast. 
+Dit zorgde ervoor dat je bepaalde delen van de website niet kon zien of er moeite mee had.
 
 **5. Tab Knop**
 
@@ -101,7 +105,8 @@ Mijn Vragen voor de studentassistenten:
 2. Waar moet ik de bronnen vermelden?
 
 De eerste voortgang gesprek had ik met de studentassistenten. 
-De feedback die ik kreeg was dat ik de afbeeldingen moest downloaden en in een img mapje moest stoppen.
+De feedback die ik kreeg was dat ik de afbeeldingen moest downloaden en in een image mapje moest stoppen.
+Ook moest ik een CSS en Javascript map aanmaken en daar de bestanden in stoppen zodat het overzichtelijker is.
 Ik moest gaan kijken naar :nth-of-type() en :first-of-type.
 Ook moest ik op de juiste manier gebruik maken van een section en article.
 
