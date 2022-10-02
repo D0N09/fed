@@ -23,14 +23,18 @@ om te zorgen dat de toegankelijkheid makkelijker word voor mensen met een beperk
 
 # Overzicht hoofdstukken:
 
-<p align=""left>
 **Toegankelijkheid testen 1.0**
+
 **Hoorcollege**
+
 **Voortgangsgesprek 15sep**
+
 **Voortgangsgesprek 22sep**
+
 **Toegankelijkheid testen 2.0**
+
 **Voortgangsgesprek 29sep**
-</p>
+
 
 # Toegankelijkheid testen
 **5 September**
