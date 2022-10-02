@@ -120,10 +120,17 @@ gaat scrollen zoomt het scherm in en uit en scrollen met 1 hand is best moeilijk
 **2. Ballon**
 
 
+
 **3. Bril**
 
+Tijdens het testen met de Blur/glare bril is het heel moeilijk om te tekst te lezen op de site.
+Hierdoor moet je heel dichtbij zitten om afbeeldingen, video's en tekst te kunnen lezen of te bekijken.
 
 **4. Tab Knop**
+
+
+
+**5. Kleurenblind**
 
 
 # Voortgang gesprek
