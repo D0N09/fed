@@ -45,7 +45,7 @@ om te zorgen dat de toegankelijkheid makkelijker word voor mensen met een beperk
 
 **Eindgesprek**
 
-**Website herkansing**
+**Verbeterde website**
 
 **Reflectie**
 
@@ -289,9 +289,14 @@ waardoor de HTML onoverzichtelijk werd en niet op een juiste manier werd toegepa
 op stage ga of ergens serieus kom te werken. Dit begrijp ik totaal en op dat moment was ik niet goed voorbereid en had ik mijzelf
 te weinig verdiept in de basisregels van het opstellen van een website met nette HTML.
 
-# Website herkansing
+# Verbeterde website
 
 Door veel video's te bekijken en opdrachten te maken kwam ik tot meer ideeën voor mijn website en ging ik met meer elementen puzzelen/spelen.
+
+**Testen van mijn nieuwe website**
+Ik heb veel feedback gevraagd aan mijn medestudenten, vrienden en familie om te kijken wat hun goed vinden en wat er beter kan aan mijn website.
+Dit proces was heel goed om te doorlopen omdat ik een hoop dingen ben tegen gekomen die ik totaal over het hoofd had gezien.
+Kleine fouten maar ook een bepaalde manier hoe ik iets had toegepast waren soms niet helemaal handig of correct toegepast in mijn website.
 
 # Reflectie
 
