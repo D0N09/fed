@@ -1,46 +1,36 @@
 :root {
-    /* ACHTERGROND */
+    /*ACHTERGROND & TEXT-KLEUR*/
     --eerste-kleur: white;
-    /* NAVBAR & TEXT-KLEUR*/
-    --tweede-kleur: #181314;
-    /* BLOKKEN & HOOFDSTUKKEN*/
-    --derde-kleur: #D2122E;
+    /*NAVBAR & TEXT-KLEUR*/
+    --tweede-kleur: #D2122E;
     /* FONT-TEXT */
     --fonttext: Tahoma, sans-serif;
 }
 
-/* SCROLLBAR WEG HALEN */
+
+/*DARK THEME*/
+.dark-theme {
+    /*ACHTERGROND*/
+    --eerste-kleur: #000033;
+}
+
+
+/*SCROLLBAR*/
 ::-webkit-scrollbar {
     overflow: hidden;
 }
 
-button:focus, a:focus {
-    background-color: gold;
-}
 
-/* VERANDER NAAR DARK-THEME */
-.dark-theme {
-    --eerste-kleur: #181314;
-    --tweede-kleur: #D2122E;
-    --derde-kleur: #D2122E;
-}
-
-/* BODY */
 body {
     background-color: var(--eerste-kleur);
 }
 
 
-/* HEADER */
+/*HEADER*/
 header {
     background-color: var(--tweede-kleur);
-    padding-top:0.1em;
-    padding-bottom: 0.1em;
-    margin-bottom: 0.5em;
-}
-
-header a:hover {
-    border-bottom: 3px solid white;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
 }
 
 header nav ul {
@@ -48,243 +38,208 @@ header nav ul {
     align-items: center;
 }
 
-header nav li {
-    list-style-type: none;
+header nav ul img {
+    width: 3em;
+    padding-right: 0.5em;
+}
+
+header nav ul p {
+    color: var(--eerste-kleur);
+    font-family: var(--fonttext);
     padding-right: 1.5em;
 }
 
-header nav li a {
-    color: var(--eerste-kleur);
-    font-family:var(--fonttext);
-    text-decoration: none;
+header nav li {
+    list-style-type: none;
+    padding-right: 1.2em;
 }
 
-header nav li button {
-    background-color: var(--eerste-kleur);
-    color: var(--tweede-kleur);
+header nav li a{
+    text-decoration: none;
+    color: var(--eerste-kleur);
+    font-family:var(--fonttext);
 }
 
 
 /* MAIN SECTION 1*/
-Main section:nth-of-type(1) {
+Main.home section:nth-of-type(1) {
     display:grid;
     grid-template-columns:repeat(auto-fit, minmax(16em, 1fr));
-    background-color: var(--derde-kleur);
+    background-color: var(--tweede-kleur);
+    margin-top: 1em;
 }
 
-
-/* MAIN SECTION 1 ARTICLE 1 H1 */
-main section:nth-of-type(1) article:nth-of-type(1) h1{
+main.home section:nth-of-type(1) article:nth-of-type(1) h1{
     color: var(--eerste-kleur);
     font-family:var(--fonttext);
     text-align: center;
 }
 
-
-/* MAIN SECTION 1 ARTICLE 1 P */
-main section:nth-of-type(1) article:nth-of-type(1) p{
+main.home section:nth-of-type(1) article:nth-of-type(1) p{
+    text-align: center;
     color: var(--eerste-kleur);
     font-family:var(--fonttext);
-    text-align: center;
     padding-left: 0.5em;
     padding-right: 0.5em;
 }
 
-
-/* MAIN SECTION 1 ARTICLE 2*/
 main.home section:nth-of-type(1) article:nth-of-type(2) {
     display: flex;
     flex-direction: row;
     overflow-x: scroll;
 }
 
-
-/* MAIN SECTION 1 ARTICLE 2 IMG */
-main section:nth-of-type(1) article:nth-of-type(2) img {
+main.home section:nth-of-type(1) article:nth-of-type(2) img {
     width: auto;
     height: 10em;
     padding-top: 1em;
 }
 
 
-/* MAIN ARTICLE 1 */ /* > = pakt de eerste article:nth-of-type(1) */
-main.home >article:nth-of-type(1) {
-    display: flex;
-    flex-direction: row;
-    overflow-x: scroll;
-}
-
-
-/* MAIN ARTICLE 1 H1 */
-main article:nth-of-type(1) h1{
-    color: var(--derde-kleur);
-    font-family: var(--fonttext);
-}
-
-
-/* MAIN ARTICLE 1 IMG */
-main.home article:nth-of-type(1) img {
-    width: auto;
-    height: 10em;
-    padding-top: 1em;
-}
-
-
-/* MAIN H2 */
-main h2 {
-    background-color: var(--derde-kleur);
-    color: var(--eerste-kleur);
-    font-family: var(--fonttext);
-    padding: 0.5em;
-}
-
-
-/* MAIN SECTION:nth-of-type(2) */
-main section:nth-of-type(2) {
+/*MAIN SECTION 2*/
+main.home section:nth-of-type(2) {
     display: grid;
-    grid-template-columns: auto auto;
-    text-align: left;
-    padding-bottom: 2em;
+    text-align: center;
+    grid-template-columns:repeat(auto-fit, minmax(15em, 1fr));
+    padding-top: 1em;
 }
 
-main section:nth-of-type(2) h3 {
+main.home section:nth-of-type(2) article ul {
+    list-style: none;
+}
+
+main.home section:nth-of-type(2) article:nth-of-type(1n+0) {
     color: var(--tweede-kleur);
     font-family: var(--fonttext);
 }
 
-main section:nth-of-type(2) p {
-    color: var(--tweede-kleur);
-    font-family: var(--fonttext);
-}
-
-main section:nth-of-type(2) h3:hover {
-    background-color: brown;
-    color: #ab936b;
-}
-
-
-/* MAIN ARTICLE 2 */
-main.home article:nth-of-type(2) p {
-    color: var(--tweede-kleur);
-    column-count: 2;
-}
-
-main.home article:nth-of-type(2) p:hover {
-    animation-name: draaien;
-    animation-duration:1s;
-}
-
-/* MAIN ARTICLE 3 */
-main.home article:nth-of-type(3) {
-    display:grid;
-    grid-template-columns:repeat(auto-fit, minmax(16em, 1fr));
-    gap: 1em;
-}
-
-main article:nth-of-type(3) iframe {
-    width: 100%;
-    aspect-ratio: 4/3;
-}
-
-
-/* FOOTER */
-footer {
-    display: flex;
-    margin-top: 0.5em;
-    justify-content: space-evenly;
-    background-color: var(--derde-kleur);
-    color: var(--eerste-kleur);
-}
-
-footer ul li {
-    list-style-type: none;
-    padding: 0.5em;
-    font-family: var(--fonttext);
-}
-
-footer ul li a{
-    color: var(--eerste-kleur);
-    text-decoration: none;
-}
-
-footer a:hover{
-    border-bottom: 2px solid white;
-}
-
-
-/* SHOP-PAGE */
-
-/* HEADER SHOPPING CART LOGO*/
-header nav ul li:nth-of-type(4) img {
+main.home section:nth-of-type(2) article ul li:nth-of-type(4) img {
+    padding-top: 0.5em;
     width: 2em;
 }
 
-/* SECTION 1 */
-main.shop-page section:first-of-type {
-    background-color: var(--eerste-kleur);
-    display: flex;
-    flex-direction: row;
-    overflow-x: scroll;
-    gap: 1em;
-}
 
-/* SECTION 1 ARTICLE */
-main.shop-page section:first-of-type article{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-main.shop-page section:first-of-type article h2{
+/*MAIN SECTION 3*/
+main.home section:nth-of-type(3) {
+    display: grid;
     text-align: center;
-    padding: 0.2em;
+    grid-template-columns:repeat(auto-fit, minmax(16em, 1fr));
+    background-color: var(--tweede-kleur);
+    color: var(--eerste-kleur);
+    font-family: var(--fonttext);
+    margin-top: 1em;
+    padding-bottom: 1em;
 }
 
-main.shop-page section:first-of-type article p{
+main.home section:nth-of-type(3) img:hover {
+    animation-name: battle;
+    animation-duration:1s;
+    animation-iteration-count: infinite;
+}
+
+/*MAIN SECTION 3 ANIMATIONS*/
+@keyframes battle {
+  0% {
+    transform:scale(1);
+  }
+  50% {
+    transform:scale(2);
+  }
+  100% {
+    transform:scale(1);
+  }
+}
+
+
+/*MAIN SECTION 4*/
+main.home section:nth-of-type(4) {
+    display: grid;
     color: var(--tweede-kleur);
     font-family: var(--fonttext);
 }
 
-main.shop-page section:first-of-type article img{
-    width: auto;
-    height: 10em;
-    padding-top:0;
+main.home section:nth-of-type(4) p {
+    column-count: 2;
 }
 
-main.shop-page section:first-of-type article button {
+
+/*MAIN SECTION 5*/
+main.home section:nth-of-type(5) {
+    display:grid;
+    grid-template-columns:repeat(auto-fit, minmax(16em, 1fr));
+    gap: 1em;
+}
+
+main.home section:nth-of-type(5) iframe {
     width: 100%;
-    height: 3em;
-    border: 2px solid #ab936b;
+    aspect-ratio: 4/3;
+    border: none;
+}
+
+
+/*FOOTER*/
+footer section {
+    display: grid;
+    text-align: center;
+    grid-template-columns:repeat(auto-fit, minmax(12em, 1fr));
+    background-color: var(--tweede-kleur);
+    margin-top: 1em;
+}
+
+footer h3 {
+    color: var(--eerste-kleur);
     font-family: var(--fonttext);
 }
 
-main.shop-page section:first-of-type article button:hover {
-    background-color: #ab936b;
-    color: white;
+footer section ul {
+    padding-left: 0;
 }
 
-/* SECTION 2 */
-main.shop-page section:nth-of-type(2) {
+footer section li {
+    list-style-type: none;
+    padding: 0.5em;
+}
+
+footer section li a {
+    text-decoration: none;
+    color: var(--eerste-kleur);
+    font-family: var(--fonttext);
+}
+
+
+/*SHOP-PAGINA*/
+header nav ul li:nth-of-type(3) img {
+    width: 2em;
+}
+
+
+/*MAIN SECTION 1*/
+main.shop section:nth-of-type(1) {
     display:grid;
     grid-template-columns:repeat(auto-fit, minmax(16em, 1fr));
     text-align: center;
+    gap: 2em;
+    padding-top: 5em;
+    padding-bottom: 5em;
 }
 
-main.shop-page section:nth-of-type(2) article:hover {
-    text-align: center;
-    animation-name: inzoomen;
-    animation-duration:1s;
-}
-
-main.shop-page section:nth-of-type(2) img {
-    width: 100%;
+main.shop section:nth-of-type(1) img {
+    width: auto;
     height: 10em;
-    padding-bottom: 0.5em;
+}
+
+main.shop section:nth-of-type(1) p {
+    font-family: var(--fonttext);
+    color: var(--tweede-kleur);
+}
+
+main.shop section:nth-of-type(1) article:hover {
+    background-color: #ab936b;
 }
 
 
-/* SECTION 3 */
-main.shop-page section:nth-of-type(3) {
+/*MAIN SECTION 2*/
+main.shop section:nth-of-type(2) {
     display:grid;
     grid-template-columns:repeat(auto-fit, minmax(16em, 1fr));
     text-align: center;
@@ -292,40 +247,63 @@ main.shop-page section:nth-of-type(3) {
     padding-top: 1em;
 }
 
-main.shop-page section:nth-of-type(3) img {
+main.shop section:nth-of-type(2) article:nth-of-type(1){
+    background-color: lightcoral;
+    height: 15em;
+}
+
+main.shop section:nth-of-type(2) article:nth-of-type(1) p {
+    font-family: var(--fonttext);
+    color: var(--eerste-kleur);
+    padding-top: 2em;
+    font-size: 2em;
+}
+
+main.shop section:nth-of-type(2) article:nth-of-type(2){
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+    height: 15em;
+}
+
+
+/*MAIN SECTION 3*/
+main.shop section:nth-of-type(3) {
+    display:grid;
+    grid-template-columns:repeat(auto-fit, minmax(16em, 1fr));
+    text-align: center;
+    gap: 2em;
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+main.shop section:nth-of-type(3) img {
     width: auto;
     height: 10em;
 }
 
-main.shop-page section:nth-of-type(3) p {
+main.shop section:nth-of-type(3) p {
     font-family: var(--fonttext);
     color: var(--tweede-kleur);
 }
 
-main.shop-page section:nth-of-type(3) article{
-    border: 1px solid var(--tweede-kleur);
-}
-
-main.shop-page section:nth-of-type(3) article:hover {
+main.shop section:nth-of-type(3) article:hover {
     background-color: #ab936b;
 }
 
 
-/* ANIMATIES */
-@keyframes draaien {
-    0% {
-      transform:rotate(0);
-    }
-    100% {
-      transform:rotate(180deg);
-    }
+/*MAIN SECTION 4*/
+main.shop section:nth-of-type(4) {
+    display:flex;
+    justify-content: center;
+    gap: 2em;
 }
 
-@keyframes inzoomen {
-    0% {
-      transform:scale(1);
-    }
-    100% {
-      transform:scale(2);
-    }
+main.shop section:nth-of-type(4) p {
+    font-family: var(--fonttext);
+    color: var(--tweede-kleur);
+}
+
+main.shop section:nth-of-type(4) a{
+    text-decoration: none;
 }
