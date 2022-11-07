@@ -291,9 +291,18 @@ leerde ik een hoop basis regels die je echt moest kunnen om een standaart websit
 ik een hoop comments waar ik nog nooit van had gehoord. Door dan ook de opdrachten te maken word programmeren steeds makkelijker en gaat het soepeler.
 In het begin had ik dus veel moeite met het begrijpen van de stof en het onthouden van hoe je welke comments toepast in je website. Als ik nu feedback
 moet geven op mijn eigen werk vindt ik dat ik een hoop heb geleerd in een korte tijd. Ook de herkansing speelt daar een rol in omdat ik nu bezig blijf
-met programmeren en het steeds meer als standaard voelt hoe ik alles toepas in mijn werk. Daarom ben ik trots op wat ik heb opgeleverd en waar ik nu
+met programmeren en het steeds meer als standaard voelt hoe ik alles toe pas in mijn werk. Daarom ben ik trots op wat ik heb opgeleverd en waar ik nu
 op dit moment zit qua denk niveau, maar dat betekent niet dat ik nu klaar ben. Zelf buiten de opdrachten ben ik bezig geweest met programmeren van
-verschillende opdrachten om er zelf steeds beter in te worden en mijn eindwebsite voor dit vak perfect wordt.
+verschillende opdrachten om er zelf steeds beter in te worden en mijn eindwebsite voor dit vak perfect te maken. Ik vind programmeren echt heel leuk
+om te doen omdat het mij en soort wauw gevoel geeft. Ik leer steeds meer dingen waarvan ik achteraf zou denken "hoe doe je dat" maar nu doe ik het
+gewoon uit de losse pols en gaat het steeds beter. Ook de nth-of-type heeft mij manier van website bouwen verandert omdat ik vroeger altijd overal 
+een DIV voor gebruikte. Eigenlijk kan je alles maken zonder een div te hoeven te gebruiken en ziet het er precies hetzelfde uit op een mooie 
+en nette manier van programmeren. Dit begrijp ik beter dan een website waar ze overal een DIV voor gebruiken en dat is denk ik ook de manier
+hoe wij als programmeurs moeten denken. Dit begreep ik in het begin niet en dat zorgte voor veel stress en irritaties tijdens het programmeren.
+Ook vindt ik als ik eerlijk moet zijn de nth-of-type een leuke manier om elke element appart aan te passen om zo meer details toe te passen in mijn werk.
+Tuurlijk zijn er ook nog elementen waar ik veel beter in kan worden en wat ik ook heel graag wil leren, dit zorgt ervoor dat mijn website steeds beter/mooier
+en professioneler worden. Dit is natuurlijk waar ik voor ga en wat mijn doel is om te kunnen, dus mijn conclusie is dat ik eigenlijk pas een klein deel onder
+de knie heb en dat mijn wil om een professionele website neer te zetten steeds groter wordt. De elementen die ik moet kunnen heb ik voor mijn doen onder de knie.
 
 # Bronnen
 
