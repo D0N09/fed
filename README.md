@@ -43,6 +43,12 @@ om te zorgen dat de toegankelijkheid makkelijker word voor mensen met een beperk
 
 **Waarom heb ik hiervoor gekozen?**
 
+**Eindgesprek**
+
+**Website herkansing**
+
+**Reflectie**
+
 **Bronnen**
 
 
@@ -265,6 +271,29 @@ Dark/light mode is handig voor mensen die moeite hebben met kleuren of graag een
 <img width="400" height="300" src="https://user-images.githubusercontent.com/112881062/193469657-297175ae-d57d-46ab-af4b-e3fbd3c353b5.PNG">
 <img width="200" height="300" src="https://user-images.githubusercontent.com/112881062/193469621-0b2a7feb-b28b-4969-8a82-5f97f4d9f0af.PNG">  
 </div>
+
+# Eindgesprek
+
+Mijn eindgesprek ging helaas niet zo goed en moest daarom mijn website herkansen.
+De elementen die beter gedaan moest worden waren dat ik goed moet opletten dat de website netjes en verzorgt is (attention to detail),
+Responsive moet er altijd goed uitzien (mobiel device/pc formaat) en mijn HTML was niet helemaal correct opgesteld.
+
+# Website herkansing
+
+Door veel video's te bekijken en opdrachten te maken kwam ik tot meer ideeën voor mijn website en ging ik met meer elementen puzzelen/spelen.
+
+# Reflectie
+
+Toen ik begon aan FED (Frontend Development) leek het mij heel moeilijk om een website te bouwen die ook geschikt is voor mensen met een beperking.
+Omdat ik niet heel goed ben in programmeren heb ik veel tijd in mijn werk moeten stoppen om echt resultaat te zien. Als ik terug kijk op wat voor niveau
+ik vorig jaar zat zie ik echt progressie in mijn werk en ideeën qua hoe ik een website moet en kan opbouwen. Door veel tutorial video's te bekijken
+leerde ik een hoop basis regels die je echt moest kunnen om een standaart website op te zetten. Ook door veel feedback te vragen tijdens de les leerde
+ik een hoop comments waar ik nog nooit van had gehoord. Door dan ook de opdrachten te maken word programmeren steeds makkelijker en gaat het soepeler.
+In het begin had ik dus veel moeite met het begrijpen van de stof en het onthouden van hoe je welke comments toepast in je website. Als ik nu feedback
+moet geven op mijn eigen werk vindt ik dat ik een hoop heb geleerd in een korte tijd. Ook de herkansing speelt daar een rol in omdat ik nu bezig blijf
+met programmeren en het steeds meer als standaard voelt hoe ik alles toepas in mijn werk. Daarom ben ik trots op wat ik heb opgeleverd en waar ik nu
+op dit moment zit qua denk niveau, maar dat betekent niet dat ik nu klaar ben. Zelf buiten de opdrachten ben ik bezig geweest met programmeren van
+verschillende opdrachten om er zelf steeds beter in te worden en mijn eindwebsite voor dit vak perfect wordt.
 
 # Bronnen
 
