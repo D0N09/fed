@@ -274,9 +274,20 @@ Dark/light mode is handig voor mensen die moeite hebben met kleuren of graag een
 
 # Eindgesprek
 
-Mijn eindgesprek ging helaas niet zo goed en moest daarom mijn website herkansen.
-De elementen die beter gedaan moest worden waren dat ik goed moet opletten dat de website netjes en verzorgt is (attention to detail),
-Responsive moet er altijd goed uitzien (mobiel device/pc formaat) en mijn HTML was niet helemaal correct opgesteld.
+Mijn website voldeed helaas niet aan alle eisen en daarom moest ik mijn website herkansen.
+Attention to detail was niet helemaal goed in mijn website verwerkt. Dat kon je zien aan de speelschema "als je ging hoveren over de wedstrijden kwam
+er een balkje die niet netjes was, de letters werden goud en daardoor onleesbaar voor de gebruiker". Ook op de shop pagina werd er een hoop laten zien
+waardoor het onoverzichtelijk en rommelig werd. Ik moet met meer ruimte werken om rust uit te stralen en dat zorgt ervoor dat de gebruiker makkelijker
+geconsentreerd naar mijn werk kan kijken.
+
+Ook was responsive niet helemaal correct uitgevoerd en zag je een aantal elementen verschuiven waardoor het niet mooi werd. 
+Elementen kwamen op posities te staan die er voor zorgen dat de gebruiker niet helemaal wist wat hij/zij er mee moest doen, dit zorgt voor
+veel onduidelijkheid als een gebruiker de wesbite gebruikt op zijn telefoon of tablet. 
+
+Helaas was de HTML ook niet helemaal op een correct manier toegepast. Sommige hoofdstukken had ik buiten en section of article geplaatst
+waardoor de HTML onoverzichtelijk werd en niet op een juiste manier werd toegepast. Zulke HTML zou ik niet kunnen toepassen als ik
+op stage ga of ergens serieus kom te werken. Dit begrijp ik totaal en op dat moment was ik niet goed voorbereid en had ik mijzelf
+te weinig verdiept in de basisregels van het opstellen van een website met nette HTML.
 
 # Website herkansing
 
