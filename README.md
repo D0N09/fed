@@ -317,8 +317,8 @@ en nette manier van programmeren. Dit begrijp ik beter dan een website waar ze o
 hoe wij als programmeurs moeten denken. Dit begreep ik in het begin niet en dat zorgte voor veel stress en irritaties tijdens het programmeren.
 Ook vindt ik als ik eerlijk moet zijn de nth-of-type een leuke manier om elke element appart aan te passen om zo meer details toe te passen in mijn werk.
 Tuurlijk zijn er ook nog elementen waar ik veel beter in kan worden en wat ik ook heel graag wil leren, dit zorgt ervoor dat mijn website steeds beter/mooier
-en professioneler worden. Dit is natuurlijk waar ik voor ga en wat mijn doel is om te kunnen, dus mijn conclusie is dat ik eigenlijk pas een klein deel onder
-de knie heb en dat mijn wil om een professionele website neer te zetten steeds groter wordt. De elementen die ik moet kunnen heb ik voor mijn doen onder de knie.
+en professioneler worden. Dit is natuurlijk waar ik voor ga en wat mijn doel is om te kunnen, dus mijn conclusie is dat ik de elementen die ik moet 
+kunnen op een correcte manier kan toepassen en best wel onder de knie heb.
 
 # Bronnen
 
