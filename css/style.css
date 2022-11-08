@@ -17,7 +17,17 @@
 
 /*SCROLLBAR*/
 ::-webkit-scrollbar {
-    overflow: hidden;
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ab936b; 
+    border-radius: 15px;
+}
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px silver; 
+    border-radius: 10px;
 }
 
 
@@ -38,7 +48,7 @@ header nav ul {
     align-items: center;
 }
 
-header nav ul img {
+header nav img {
     width: 3em;
     padding-right: 0.5em;
 }
@@ -47,6 +57,19 @@ header nav ul p {
     color: var(--eerste-kleur);
     font-family: var(--fonttext);
     padding-right: 1.5em;
+}
+
+header nav ul button {
+    border: 2px solid #000033;
+    border-radius: 0.8em;
+    box-shadow: 0 4px lightcoral;
+}
+
+header nav ul button:active {
+    background-color: #ab936b;
+    color: white;
+    box-shadow: 0 2px #000033;
+    transform: translateY(4px);
 }
 
 header nav li {
@@ -61,7 +84,7 @@ header nav li a{
 }
 
 
-/* MAIN SECTION 1*/
+/*MAIN SECTION 1*/
 Main.home section:nth-of-type(1) {
     display:grid;
     grid-template-columns:repeat(auto-fit, minmax(16em, 1fr));
@@ -106,6 +129,7 @@ main.home section:nth-of-type(2) {
 
 main.home section:nth-of-type(2) article ul {
     list-style: none;
+    padding:0;
 }
 
 main.home section:nth-of-type(2) article:nth-of-type(1n+0) {
@@ -143,7 +167,7 @@ main.home section:nth-of-type(3) img:hover {
     transform:scale(1);
   }
   50% {
-    transform:scale(2);
+    transform:scale(1.7);
   }
   100% {
     transform:scale(1);
@@ -206,6 +230,11 @@ footer section li a {
     font-family: var(--fonttext);
 }
 
+footer article:nth-of-type(4) ul li img {
+    padding-bottom: 0.5em;
+    height: 3em;
+}
+
 
 /*SHOP-PAGINA*/
 header nav ul li:nth-of-type(3) img {
@@ -226,6 +255,7 @@ main.shop section:nth-of-type(1) {
 main.shop section:nth-of-type(1) img {
     width: auto;
     height: 10em;
+    padding-bottom: 1em;
 }
 
 main.shop section:nth-of-type(1) p {
@@ -233,8 +263,8 @@ main.shop section:nth-of-type(1) p {
     color: var(--tweede-kleur);
 }
 
-main.shop section:nth-of-type(1) article:hover {
-    background-color: #ab936b;
+main.shop section:nth-of-type(1) article img:hover{
+    transform: scale(1.5);
 }
 
 
@@ -250,20 +280,32 @@ main.shop section:nth-of-type(2) {
 main.shop section:nth-of-type(2) article:nth-of-type(1){
     background-color: lightcoral;
     height: 15em;
+    border-radius: 1em;
 }
 
 main.shop section:nth-of-type(2) article:nth-of-type(1) p {
     font-family: var(--fonttext);
     color: var(--eerste-kleur);
-    padding-top: 2em;
     font-size: 2em;
+    padding-top: 1em;
+}
+
+main.shop section:nth-of-type(2) article:nth-of-type(1) p:nth-of-type(2) {
+    font-family: var(--fonttext);
+    color: var(--eerste-kleur);
+    font-size: 1em;
 }
 
 main.shop section:nth-of-type(2) article:nth-of-type(2){
     display: flex;
     flex-direction: row;
     overflow-x: scroll;
-    height: 15em;
+    padding-bottom: 1em;
+}
+
+main.shop section:nth-of-type(2) article:nth-of-type(2) a img{
+    width: 12em;
+
 }
 
 
@@ -280,6 +322,7 @@ main.shop section:nth-of-type(3) {
 main.shop section:nth-of-type(3) img {
     width: auto;
     height: 10em;
+    padding-bottom: 1em;
 }
 
 main.shop section:nth-of-type(3) p {
@@ -287,8 +330,8 @@ main.shop section:nth-of-type(3) p {
     color: var(--tweede-kleur);
 }
 
-main.shop section:nth-of-type(3) article:hover {
-    background-color: #ab936b;
+main.shop section:nth-of-type(3) article img:hover{
+    transform: scale(1.5);
 }
 
 
@@ -297,6 +340,11 @@ main.shop section:nth-of-type(4) {
     display:flex;
     justify-content: center;
     gap: 2em;
+}
+
+main.shop section:nth-of-type(4) article:nth-of-type(1) p {
+    border-bottom: 2px solid var(--tweede-kleur);
+    padding-bottom: 0.5em;
 }
 
 main.shop section:nth-of-type(4) p {
